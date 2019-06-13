@@ -29,6 +29,7 @@ public class Driver {
 		me2.addRental(r3);
 		System.out.println(me.statement());
 		System.out.println(me2.statement());
+		
 
 	}
 }
